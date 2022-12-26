@@ -866,12 +866,10 @@ main .block5 form .feedbackFormGeneralBottom {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  width: 520px;
 }
 main .block5 form .feedbackFormGeneralBottom .oneLineForm {
   display: flex;
   justify-content: space-between;
-  width: 520px;
   margin-bottom: 50px;
 }
 main .block5 form .checkboxForms {
