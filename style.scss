@@ -4,9 +4,9 @@
     margin: 0;
 }
 
-.container {
-    width: 1236px;
-}
+// .container {
+//     width: 1236px;
+// }
 
 @font-face {
     font-family: 'Yeseva One';
@@ -324,15 +324,21 @@ main {
             width: 100%;
         }
 
-        .repairBlockGeneral  h2{
-            font-family: 'Yeseva One';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 20px;
-            line-height: 28px;
-            text-align: center;
-            text-transform: uppercase;
-            color: #181818;
+        // .repairBlockGeneral  h2{
+        //     font-family: 'Yeseva One';
+        //     font-style: normal;
+        //     font-weight: 400;
+        //     font-size: 20px;
+        //     line-height: 28px;
+        //     text-align: center;
+        //     text-transform: uppercase;
+        //     color: #181818;
+        // }
+
+        .repairBlockGeneral , .groupIcons{
+            img {
+                width: 45px;
+            }
         }
 
         h2 {
